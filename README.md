@@ -1,0 +1,1 @@
+# School Management Adapter System
